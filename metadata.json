@@ -1,0 +1,7 @@
+{
+  "name": "AI Conta Calorie",
+  "description": "Un'app web basata sull'intelligenza artificiale che calcola le calorie e i valori nutrizionali di un pasto da una foto. Scatta una foto del tuo piatto e la nostra intelligenza artificiale nutrizionista esperta identificherà gli ingredienti e fornirà un'analisi nutrizionale dettagliata.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
